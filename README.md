@@ -4,7 +4,8 @@
 
 The aim of this activity was to analyse and visualize the bike sharing data.
 Which is done through tableau:
-[link to dashboard]("https://public.tableau.com/views/citi_bike_16745482834910/Story1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link")
+
+[link to dashboard](https://public.tableau.com/views/citi_bike_16745482834910/Story1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
 
 <img width="1552" alt="Screen Shot 2023-01-24 at 3 19 52 AM" src="https://user-images.githubusercontent.com/111954141/214244682-d23b3cc9-4a71-47b5-93cb-f55c94d6e254.png">
 Check out times duration.
